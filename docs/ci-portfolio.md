@@ -1,4 +1,9 @@
-![CI Banner](./images/img.png)
+<p align="center">
+  <img src="../images/img.png" width="100%" alt="CI Portfolio Banner" />
+</p>
+
+
+
 # 🚀 Continuous Intelligence Portfolio
 ## 👤 Abdellah Boudlal
 📅 2026-04
