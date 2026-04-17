@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="../images/img.png" width="100%" alt="CI Portfolio Banner" />
-</p>
-
+<img src="../images/img.png" width="100%" />
 
 
 # 🚀 Continuous Intelligence Portfolio
