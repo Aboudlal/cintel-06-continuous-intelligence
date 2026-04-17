@@ -1,5 +1,4 @@
-<img src="../images/img.png" width="100%" />
-
+<img src="/cintel-06-continuous-intelligence/images/img.png" width="100%" alt="CI Portfolio Banner" />
 
 # 🚀 Continuous Intelligence Portfolio
 ## 👤 Abdellah Boudlal
